@@ -12,7 +12,7 @@ import requests
 from dotenv import load_dotenv
 
 # 조회할 종목코드. 지금은 여기 직접 적어 두고, 나중에 파일에서 읽어오도록 바꾼다.
-STOCK_CODE = "005930"  # 삼성전자
+STOCK_CODE = "069500"  # KODEX 200
 
 load_dotenv()
 
