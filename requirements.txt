@@ -1,4 +1,4 @@
-requests
-python-dotenv
-pandas
-matplotlib
+requests        #http 요청 받아올 때 씀
+python-dotenv   #토큰 받아올 때 씀
+pandas          #판다스 할 때 씀
+matplotlib      #그림 그릴 때 씀

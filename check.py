@@ -9,6 +9,3 @@ print(watchlist_df["code"].tolist())        #['005930', '000660', '005380']
 
 dic = dict(zip(watchlist_df["code"], watchlist_df["name"]))
 print(dic)
-
-
-
